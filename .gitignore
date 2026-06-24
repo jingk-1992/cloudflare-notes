@@ -1,0 +1,15 @@
+.idea/
+.venv/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+.dev.vars
+
+exported_notes/
+decrypted_notes.json
+user_data_*.json
+user_data/
+user_info/
+backup_folder/
